@@ -1,1 +1,1 @@
-# Gloss-rio-b-sico-de-TI
+# glossario-basico-de-TI
